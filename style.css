@@ -1,0 +1,42 @@
+ .container {
+    max-width: 1140px;
+ }
+ 
+ .bg-light {
+    background-color: #f8f9fa;
+ }
+
+.logo {
+    width : 17%;
+    float : left;
+}
+
+.ul li ol {
+    margin : 0px;
+    padding : 0px;
+    list-style: none;
+}
+
+.banner{
+    background-color:#d5f2f9;
+    padding: 50px 0px;
+}
+
+.banner .banner_text h2 {
+    font-size: 70px;
+    font-weight: 600;
+    color: #016e9f;
+}
+
+.banner .banner_text button {
+    background: #016e9f;
+    border: 1px solid #016e9f;
+    padding: 10px 20px;
+    border-radius: 50px;
+}
+
+
+
+
+
+
